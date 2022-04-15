@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyProject\\Patika\\Patika\\csharp 101\\operators\\operators.csproj",
+      "projectUniqueName": "D:\\MyProject\\Patika\\Patika\\csharp_101\\operators\\operators.csproj",
       "projectName": "operators",
-      "projectPath": "D:\\MyProject\\Patika\\Patika\\csharp 101\\operators\\operators.csproj",
+      "projectPath": "D:\\MyProject\\Patika\\Patika\\csharp_101\\operators\\operators.csproj",
       "packagesPath": "C:\\Users\\abdus\\.nuget\\packages\\",
-      "outputPath": "D:\\MyProject\\Patika\\Patika\\csharp 101\\operators\\obj\\",
+      "outputPath": "D:\\MyProject\\Patika\\Patika\\csharp_101\\operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abdus\\AppData\\Roaming\\NuGet\\NuGet.Config",

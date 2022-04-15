@@ -6,7 +6,10 @@ namespace operators
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            int b = 5;
+            b +=5;
+            b /=2;
         }
     }
 }

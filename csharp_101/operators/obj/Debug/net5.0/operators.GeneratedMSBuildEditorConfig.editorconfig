@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = variables
-build_property.ProjectDir = D:\MyProject\Patika\Patika\csharp 101\variables\
+build_property.RootNamespace = operators
+build_property.ProjectDir = D:\MyProject\Patika\Patika\csharp_101\operators\
