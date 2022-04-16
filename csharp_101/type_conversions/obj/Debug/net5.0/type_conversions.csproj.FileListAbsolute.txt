@@ -1,0 +1,16 @@
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\bin\Debug\net5.0\type_conversions.exe
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\bin\Debug\net5.0\type_conversions.deps.json
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\bin\Debug\net5.0\type_conversions.runtimeconfig.json
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\bin\Debug\net5.0\type_conversions.runtimeconfig.dev.json
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\bin\Debug\net5.0\type_conversions.dll
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\bin\Debug\net5.0\type_conversions.pdb
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\obj\Debug\net5.0\type_conversions.csproj.AssemblyReference.cache
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\obj\Debug\net5.0\type_conversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\obj\Debug\net5.0\type_conversions.AssemblyInfoInputs.cache
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\obj\Debug\net5.0\type_conversions.AssemblyInfo.cs
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\obj\Debug\net5.0\type_conversions.csproj.CoreCompileInputs.cache
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\obj\Debug\net5.0\type_conversions.dll
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\obj\Debug\net5.0\refint\type_conversions.dll
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\obj\Debug\net5.0\type_conversions.pdb
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\obj\Debug\net5.0\type_conversions.genruntimeconfig.cache
+D:\MyProject\Patika\Patika\csharp_101\type_conversions\obj\Debug\net5.0\ref\type_conversions.dll
