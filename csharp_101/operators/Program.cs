@@ -73,7 +73,7 @@ namespace operators
             Console.WriteLine(sayi1);
 
             // Mod alır
-            int sSonuc1 = 20%3;
+            int sSonuc1 = 20 % 3;
             
             Console.WriteLine(sSonuc1);
             Console.ReadLine();
