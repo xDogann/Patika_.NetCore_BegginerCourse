@@ -1,0 +1,18 @@
+# Takip edilmeyecek dosyalar
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+# img
+*.jpg
+
+
+
+# videos
+*.mp4
+# packages
+
+# log
+*.log
+password.txt
